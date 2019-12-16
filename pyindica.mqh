@@ -15,7 +15,7 @@ input string SocketHost="127.0.0.1";
 input int SocketPort=5556;
 input string SocketProtocol="tcp";
 input int SocketPullTimeout=500;
-input bool SocketVerbose=False;
+input bool SocketVerbose= false;
 
 const string Socket_Name="ZMQ_client";
 //+------------------------------------------------------------------+
