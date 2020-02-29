@@ -1,5 +1,5 @@
 # PyIndica
-use python cod as indicator for MQL5
+python code integration in MQL5 experts
 
 ## How does it work
 1. send N last candles to python through ZMQ request
@@ -8,4 +8,5 @@ use python cod as indicator for MQL5
 
 todo:
 - [ ] example code
+- [ ] installation guide
 - [ ] user guide
